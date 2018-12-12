@@ -1520,7 +1520,7 @@ a {
 
 /*footer*/
 .footer {
-  background: url(".././sourceimages/bg-footer.png");
+  background: url(".././images/bg-footer.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 0;
@@ -1572,8 +1572,7 @@ a {
                 justify-content: center; } }
     .footer-blocks .information-holder li {
       font-family: "poppins", sans-serif;
-      margin: 0 0 11px;
-      white-space: nowrap; }
+      margin: 0 0 11px; }
       .footer-blocks .information-holder li a {
         -webkit-transition: color 0.3s;
         transition: color 0.3s; }

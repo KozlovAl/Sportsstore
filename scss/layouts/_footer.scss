@@ -1,6 +1,6 @@
 /*footer*/
 .footer {
-	background: url(".././sourceimages/bg-footer.png");
+	background: url(".././images/bg-footer.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 50% 0;
@@ -52,7 +52,6 @@
 		li {
 			font-family: $base-font-poppins;
 			margin: 0 0 11px;
-			white-space: nowrap;
 			a {
 				transition: color.3s;
 				&:hover {
